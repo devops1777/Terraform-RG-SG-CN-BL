@@ -1,5 +1,4 @@
 # Terraform
-Code for all important azure services
 This Terraform configuration will create an Azure resource group, a storage account, a storage container, and a storage blob on Azure.
 The configuration begins by specifying the provider and version to use, and then defines the resources that will be created.
 The first resource defined is an Azure resource group, which will contain all of the other resources. The location of the resource group is set to "UK South".
